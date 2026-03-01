@@ -1,6 +1,6 @@
 package exe0;
 public class Carro {
-    //crianda variáveis com visibilidade pública
+    //criando variáveis com visibilidade pública
     //qualquer outra calsse pode acessar e alterar essas variáveis
     public String marca, modelo, cor, placa;
     public float potencia, velocidade;
