@@ -18,15 +18,7 @@ public class TestaConta {
         obj1.sacar(300);
         obj1.encerrarConta();
 
-        System.out.println(obj1);
-
-
-
-
-
-
-
-
+        System.out.println(obj2);
 
 
     }
